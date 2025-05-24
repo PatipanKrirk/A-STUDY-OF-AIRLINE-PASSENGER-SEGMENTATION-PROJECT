@@ -1,12 +1,4 @@
 # A-STUDY-OF-AIRLINE-PASSENGER-SEGMENTATION-PROJECT
-In the highly competitive airline industry, understanding passenger satisfaction is crucial for business success. This study leverages machine learning techniques to identify key drivers of passenger satisfaction and segment airline customers for targeted service improvements. Using a publicly available U.S. airline passenger satisfaction dataset, Logistic Regression was employed to identify significant
-factors affecting passenger satisfaction while K-means clustering was used to segment
-customers. The analysis revealed that online boarding and in-flight Wi-Fi service are the
-most significant factors influencing satisfaction. Logistic Regression demonstrated high
-performance across multiple metrics (accuracy: 88%, precision: 87.2%, recall: 84.6%,
-F1-score: 85.9%). Furthermore, two distinct passenger clusters were identified each with
-differing needs and expectations, though both expressed dissatisfaction with in-flight
-Wi-Fi. These insights enable airlines to prioritize service enhancements, optimize
-resource allocation, and personalize the customer experience. Future research should
-explore the integration of behavioral variables, time-specific data, and alternative
-models to enhance the understanding of passenger behavior and satisfaction.
+In the highly competitive airline industry, understanding passenger satisfaction is crucial for business success. This study leverages machine learning techniques to identify key drivers of passenger satisfaction and segment airline customers for targeted service improvements. Using a publicly available U.S. airline passenger satisfaction dataset, Logistic Regression was employed to identify significant factors affecting passenger satisfaction while K-means clustering was used to segment customers. 
+The analysis revealed that online boarding and in-flight Wi-Fi service are themost significant factors influencing satisfaction. Logistic Regression demonstrated high performance across multiple metrics (accuracy: 88%, precision: 87.2%, recall: 84.6%,F1-score: 85.9%).
+Furthermore, two distinct passenger clusters were identified each with differing needs and expectations, though both expressed dissatisfaction with in-flight Wi-Fi. These insights enable airlines to prioritize service enhancements, optimize resource allocation, and personalize the customer experience. Future research should explore the integration of behavioral variables, time-specific data, and alternative models to enhance the understanding of passenger behavior and satisfaction.
